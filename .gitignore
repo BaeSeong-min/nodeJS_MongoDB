@@ -1,6 +1,8 @@
 .replit
-replit.nix
 .breakpoints
+replit.nix
+
+dev.js
 
 # Logs
 logs
